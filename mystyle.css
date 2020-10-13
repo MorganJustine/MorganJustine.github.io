@@ -1,7 +1,5 @@
-h1{p.fancy{
-color:#666; font-style: oblique;
+h1{ 
+  background-color:#000; 
+  color:#fff; 
+  font-size:3em;
 }
-background-color:#000;
-color:#fff;
-font-size:3em;
-  }
