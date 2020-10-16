@@ -1,6 +1,10 @@
 h1{ 
   font-size:100px; 
-  color:#B7E3EC; 
+  color:#9672C5; 
+}
+h2{
+  font-size:50px;
+  colour:#B48AEA
 }
 ul.nav li{
   display:inline;
