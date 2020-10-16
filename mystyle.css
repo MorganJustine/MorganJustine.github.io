@@ -5,6 +5,7 @@ h1{
 h2{
   font-size:50px;
   colour:#B48AEA
+  padding:-10px;
 }
 ul.nav li{
   display:inline;
