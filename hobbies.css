@@ -1,13 +1,12 @@
 h1{ 
   font-size:100px; 
   color:#4682B4; 
-  margin-top: 100px;
   border-style: groove;
 }
 p1{
   font-size:40px; 
   color:#4682B4; 
-  text-align:center;
+  margin-top: 100px;
 }
 p2{
  font-size:40px; 
