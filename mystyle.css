@@ -1,8 +1,14 @@
 h1{ 
-  background-color:#000; 
+  font-size:100px; 
   color:#fff; 
-  font-size:3em;
 }
-p.fancy{
-color:#666; font-style: oblique;
+ul.nav li {
+display:inline;
+  padding:10px
+}
+ul.nav li a{
+display:block
+  padding:10px
+backgroundcolour-#333;
+
 }
