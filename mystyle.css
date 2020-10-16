@@ -17,8 +17,8 @@ ul.nav li{
 ul.nav li a{
   display:inline-block;
   padding:10px;
-  background-color:#B0C4DE;
   text-align:center;
+  background-color:#B0C4DE;
   color:#fff
   text-decoration:none;
 }
