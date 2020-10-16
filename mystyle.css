@@ -2,7 +2,6 @@ h1{
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
-  border-style: ridge;
 }
 h2{
   font-size:50px;
@@ -17,10 +16,10 @@ ul.nav li{
 }
 ul.nav li a{
   display:inline-block;
-  text-align:center;
   padding:10px;
   background-color:#B0C4DE;
   color:#fff
+  text-align:center;
   text-decoration:none;
 }
 ul.nav li a:hover{
