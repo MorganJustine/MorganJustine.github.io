@@ -2,6 +2,7 @@ h1{
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
+  p.ridge {border-style: ridge;}
 }
 h2{
   font-size:50px;
