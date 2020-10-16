@@ -1,10 +1,10 @@
 h1{ 
   font-size:100px; 
-  color:#9976C4; 
+  color:#4682B4; 
 }
 h2{
   font-size:50px;
-  color:#C476A1;
+  color:#5F9EA0;
   margin-top:-35px;
 }
 ul.nav li{
@@ -15,7 +15,7 @@ ul.nav li{
 ul.nav li a{
   display:inline-block;
   padding:10px;
-  background-color:#C9FDF7;
+  background-color:#B0C4DE;
   color:#fff
   text-decoration:none;
 }
