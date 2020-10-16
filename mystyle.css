@@ -2,7 +2,7 @@ h1{
   font-size:100px; 
   color:#B7E3EC; 
 }
-ul.nav li {
+ul.nav li{
 display:inline;
   padding:10px
 width:50px
@@ -10,6 +10,6 @@ width:50px
 ul.nav li a{
 display:inline-block
   padding:10px
-backgroundcolour-#333;
+backgroundcolor-#333;
 
 }
