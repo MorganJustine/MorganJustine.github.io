@@ -14,12 +14,17 @@ p2{
   color:#304f50; 
   text-align:center;
   padding-bottom:400px;
+  padding-top:400px;
 }
 table{
   border-collapse: collapse;
   width: 100%;
 }
-th, td {
+th{
+  padding: 15px;
+  text-align: left;
+}
+td{
   padding: 15px;
   text-align: left;
 }
