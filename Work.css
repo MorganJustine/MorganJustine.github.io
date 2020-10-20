@@ -3,13 +3,13 @@ h1{
   color:#4682B4; 
   text-align:center;
   border-style: groove;
-  padding-bottom:10px;
+  padding-bottom: 10px;
 }
 h2{
   font-size:50px;
   color:#5F9EA0;
   text-align:center;
-  padding:-65px;
+  padding-bottom: 10px;
 }
 p{
 font-size:30px;
