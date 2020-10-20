@@ -13,21 +13,21 @@ h2{
 p2{
   color:#304f50; 
   text-align:center;
-  padding-bottom:700px;
-  padding-top:700px;
+  padding-bottom:50px;
+  padding-top:50px;
 }
 table{
   width: 100%;
-border: 1px solid #ddd;
+border: 1px solid #5F9EA0;
 }
 th{
 color:#4682B4;
   padding: 15px;
   text-align: center;
-   border: 1px solid #ddd;
+   border: 1px solid #5F9EA0;
 }
 td{
   padding: 15px;
   text-align: left;
-   border: 1px solid #ddd;
+   border: 1px solid #5F9EA0;
 }
