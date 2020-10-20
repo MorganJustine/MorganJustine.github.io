@@ -1,11 +1,12 @@
 h1{ 
   font-size:100px; 
   color:#4682B4; 
-  border-style: inset;
-  margin-bottom: 100px;
+  text-align:center;
+  border-style: solid;
 }
 h2{
-  font-size:40px; 
-  color:#4682B4; 
-  margin-top:400px;
+  font-size:50px;
+  color:#5F9EA0;
+  text-align:center;
+  margin-top:-65px;
 }
