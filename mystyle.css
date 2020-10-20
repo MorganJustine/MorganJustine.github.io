@@ -16,13 +16,12 @@ ul.nav li{
   width:50px;
 }
 ul.nav li a{
-font-size:20px;
+font-size:30px;
+ text-align:center;
   display:inline-block;
   padding:10px;
   background-color:#B0C4DE;
   color:#fff
-  text-align:center;
-  text-decoration:none;
 }
 ul.nav li a:hover{
 background-color:#B7E3EC
