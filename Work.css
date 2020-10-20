@@ -10,15 +10,17 @@ h2{
   text-align:center;
   margin-top:-65px;
 }
-<style>
-table, td, th {  
-  border: 1px solid #ddd;
-  text-align: left;
-}
-table {
+<table>{
   border-collapse: collapse;
   width: 100%;
 }
-th, td {
+td{
   padding: 15px;
+border: 1px solid #ddd;
+text-align: left;
+}
+th{
+padding: 15px;
+border: 1px solid #ddd;
+text-align: left;
 }
