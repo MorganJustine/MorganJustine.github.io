@@ -1,10 +1,10 @@
-h{ 
+h1{ 
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
   border-style: groove;
 }
-p{
+h2{
   font-size:50px;
   color:#5F9EA0;
   text-align:center;
@@ -22,6 +22,3 @@ table {
 th, td {
   padding: 15px;
 }
-</style>
-</head>
-<body>
