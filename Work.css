@@ -14,13 +14,7 @@ table{
   border-collapse: collapse;
   width: 100%;
 }
-td{
+tr, td {
   padding: 15px;
-border: 1px solid #ddd;
-text-align: left;
-}
-tr{
-padding: 15px;
-border: 1px solid #ddd;
-text-align: left;
+  text-align: left;
 }
