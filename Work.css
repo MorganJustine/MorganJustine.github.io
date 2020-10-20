@@ -11,11 +11,12 @@ h2{
   margin-top:-65px;
 }
 p2{
+font-size:30px;
+  width:700px;
   color:#304f50; 
   text-align:center;
-  padding-bottom:50px;
-  padding-top:50px;
-  width:700px;
+  padding-bottom:50%;
+  padding-top:50%;
 }
 table{
   width: 100%;
