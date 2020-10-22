@@ -17,18 +17,18 @@ h2{
   margin-top:-65px;
 }
 
-ol.nav li{
-  float:left;
-  font-size:25px;
-  color:#5C4598;
-  
 img {
   border-radius: 50%;
     display: block;
   margin-left: auto;
   margin-right: auto;
 }
-  
+
+ol.nav li{
+  text-align:left;
+  font-size:25px;
+  color:#5C4598;
+
   p{
 font-size:30px;
 }
