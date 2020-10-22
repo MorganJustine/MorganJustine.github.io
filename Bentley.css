@@ -23,6 +23,7 @@ ol.nav li{
   color:#5C4598;
   
 img {
+  float:left;
   border-radius: 50%;
     display: block;
   margin-left: auto;
