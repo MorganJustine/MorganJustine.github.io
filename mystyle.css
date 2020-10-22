@@ -33,5 +33,6 @@ font-size:30px;
 }
 
 ul.nav li a:hover{
-background-color:#B7E3EC
+  color:#FFF;
+background-color:#AFCDCC;
 }
