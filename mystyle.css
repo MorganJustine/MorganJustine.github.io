@@ -8,7 +8,7 @@ h1{
   border-style: dashed;
   color: #113244;
   background-color: #70c2b6;
-  text-shadow: 2px 2px 5px #000;
+  text-shadow: 2px 2px 5px #FFF;
   font-family: Impact, Charcoal, sans-serif;
 }
 
@@ -17,7 +17,7 @@ h2{
   color:#5d886c;
   text-align:center;
   margin-top:-65px;
-  text-shadow: 2px 2px 5px #FFF;
+  text-shadow: 2px 2px 5px #000;
   font-family: Impact, Charcoal, sans-serif;	
 }
 
