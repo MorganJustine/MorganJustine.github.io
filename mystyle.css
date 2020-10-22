@@ -38,6 +38,7 @@ background-color:#8fd0ca;
 }
 
 img {
+  float: right;
   border-radius: 45%;
     display: block;
   margin-left: auto;
