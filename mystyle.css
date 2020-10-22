@@ -23,10 +23,10 @@ ul.nav li{
 }
 
 ul.nav li a{
-font-size:30px;
+font-size:35px;
  text-align:center;
   display:inline-block;
-  padding:10px;
+  padding:50px;
   background-color:#5d886c;
   color:#FFF
 }
