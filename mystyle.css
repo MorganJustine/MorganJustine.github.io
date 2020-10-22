@@ -1,20 +1,27 @@
+body{
+background-color:#E5EBF4;
+}
+
 h1{ 
   font-size:100px; 
    text-align:center;
   border-style: dashed;
   color: #4682B4;
 }
+
 h2{
   font-size:50px;
   color:#5F9EA0;
   text-align:center;
   margin-top:-65px;
 }
+
 ul.nav li{
   display:inline;
   padding:10px;
   width:50px;
 }
+
 ul.nav li a{
 font-size:30px;
  text-align:center;
@@ -23,9 +30,7 @@ font-size:30px;
   background-color:#B0C4DE;
   color:#fff
 }
+
 ul.nav li a:hover{
 background-color:#B7E3EC
-}
-body{
-background-color:#E5EBF4;
 }
