@@ -1,8 +1,12 @@
+body{
+background-color: #E2DBF4;
+}
+
 h1{  
   font-size:100px; 
   text-align:center;
   border-style: double;
-  color: #899BDD; 
+  color: #8263CF; 
   background-color: #DBE1F4;
 }
 
@@ -20,8 +24,4 @@ ol.nav li{
 
 p{
 font-size:30px;
-}
-
-body{
-background-color: #E2DBF4;
 }
