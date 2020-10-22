@@ -19,7 +19,7 @@ h2{
 
 ul.nav li{
   display:inline;
-  padding:10px;
+  padding:50px;
   width:50px;
 }
 
@@ -27,7 +27,7 @@ ul.nav li a{
 font-size:30px;
  text-align:center;
   display:inline-block;
-  padding:50px;
+  padding:10px;
   background-color:#5d886c;
   color:#FFF
 }
