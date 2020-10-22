@@ -18,10 +18,9 @@ h2{
 }
 
 ol.nav li{
-  text-align:center;
+  text-align:left;
   font-size:25px;
   color:#5C4598;
-  display: inline-block;
   
 img {
   border-radius: 50%;
