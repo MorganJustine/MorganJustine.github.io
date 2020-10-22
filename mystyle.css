@@ -26,7 +26,7 @@ ul.nav li a{
 font-size:35px;
  text-align:center;
   display:inline-block;
-  padding:50px;
+  padding:20px;
   background-color:#5d886c;
   color:#FFF
 }
@@ -34,6 +34,7 @@ font-size:35px;
 ul.nav li a:hover{
   color:#FFF;
 background-color:#8fd0ca;
+  padding;10px;
 }
 
 img {
