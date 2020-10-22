@@ -29,6 +29,7 @@ img {
 
 ol.nav li{
   text-align:left;
+  font-family: "Lucida Console", Courier, monospace;
   font-size:25px;
   color:#5C4598;
     }
