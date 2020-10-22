@@ -4,15 +4,13 @@ font-size:30px;
 
 <style>
 
-body{
-background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/marble-2398946__340.jpg");
-  background-color: #cccccc;
-}
-
 <div class="clearfix"></div> 
 <div style="padding:6px;">
 div.gallery {
   border: 1px solid #ccc;
+  background-image: url("https://cdn.pixabay.com/photo/2017/06/13/13/51/marble-2398946__340.jpg");
+  background-color: #cccccc;
+}
 }
 
 div.gallery:hover {
