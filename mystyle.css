@@ -27,13 +27,8 @@ ul.nav li{
   padding-right:30px;
 }
 
-nav {
-	list-style-type: none;
-	margin: 0;
-	padding: 50px;
-	text-align: center;
-	margin-top: 80px;
-	line-height: 1.3em;
+a{
+margin-top:10px;
 }
 
 ul.nav li a{
