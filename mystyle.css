@@ -37,16 +37,8 @@ ul.nav li a:hover{
 background-color:#8fd0ca;
 }
 
-imgage1 {
+img {
   float: left;
-  border-radius: 50%;
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-imgage2 {
-  float: right;
   border-radius: 50%;
     display: block;
   margin-left: auto;
