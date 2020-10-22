@@ -6,7 +6,7 @@ h1{
   font-size:100px; 
   text-align:center;
   border-style: dotted dashed solid double;
-  color: #846c54; 
+  color: #a2b198; 
   background-color: #334523;
   text-shadow: 2px 2px 5px #000;
 }
@@ -38,7 +38,6 @@ color:#334323;
   text-align: center;
   border: 1px solid black;
   padding:15px;
-  hover {background-color:#f5f5f5;}
 }
 
 td{
@@ -47,7 +46,6 @@ color:#304f50;
   text-align: left;
   border: 1px solid black;
   padding:15px;
-  hover {background-color:#f5f5f5;}
 }
 
 img {
