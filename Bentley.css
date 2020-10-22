@@ -18,12 +18,11 @@ h2{
 }
 
 ol.nav li{
-  text-align:left;
+  float:left;
   font-size:25px;
   color:#5C4598;
   
 img {
-  float:left;
   border-radius: 50%;
     display: block;
   margin-left: auto;
