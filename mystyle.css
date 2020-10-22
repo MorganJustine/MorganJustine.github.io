@@ -20,8 +20,8 @@ h2{
 ul.nav li{
   display:inline;
   width:10px;
-  padding-top:10px;
-  padding-bottom:10px;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 
 ul.nav li a{
