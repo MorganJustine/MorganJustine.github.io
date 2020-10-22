@@ -1,25 +1,27 @@
-h1{ 
-  color: #899BDD; 
-  background-color: #DBE1F4;
-}
-h1{
+h1{  
   font-size:100px; 
   text-align:center;
   border-style: double;
+  color: #899BDD; 
+  background-color: #DBE1F4;
 }
+
 h2{
   font-size:50px;
   color:#A189DD;
   text-align:center;
   margin-top:-65px;
 }
+
 ol.nav li{
   font-size:25px;
   color:#304f50;
 }
+
 p{
 font-size:30px;
 }
+
 body{
 background-color: #E2DBF4;
 }
