@@ -2,7 +2,7 @@ h1{
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
-  border-style: outset;
+  border-style: dashed;
 }
 h2{
   font-size:50px;
@@ -27,5 +27,5 @@ ul.nav li a:hover{
 background-color:#B7E3EC
 }
 body{
-background-color:#E6ECF5;
+background-color:#D7E1EE;
 }
