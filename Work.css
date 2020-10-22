@@ -4,10 +4,10 @@ background-color:#ccdcbc;
 
 h1{ 
   font-size:100px; 
-  color:#25331a; 
-  background-color:#334523
   text-align:center;
   border-style: dotted dashed solid double;
+  color: #25331a; 
+  background-color: #334523;
 }
 
 h2{
