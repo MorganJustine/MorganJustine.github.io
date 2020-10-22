@@ -39,7 +39,7 @@ background-color:#8fd0ca;
 }
 
 img {
-  float: left;
+  float: left right;
   border-radius: 50%;
     display: block;
   margin-left: auto;
