@@ -1,15 +1,10 @@
-h1{ 
-  font-size:100px; 
-   text-align:center;
-  border-style: dashed;
-  background-color: #F3F6FA;
-  color: #4682B4;
+body{
+  background-color: lightgrey;
+  color: blue;
 }
-h2{
-  font-size:50px;
-  color:#5F9EA0;
-  text-align:center;
-  margin-top:-65px;
+h1{
+  background-color: black;
+  color: white;
 }
 ul.nav li{
   display:inline;
