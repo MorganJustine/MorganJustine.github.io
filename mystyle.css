@@ -27,9 +27,9 @@ ul.nav li a{
 font-size:30px;
  text-align:center;
   display:inline-block;
-  padding:20px;
+  padding:50px;
   background-color:#5d886c;
-  color:#000000
+  color:#FFF
 }
 
 ul.nav li a:hover{
