@@ -1,18 +1,18 @@
 body{
-background-color:#CADEDC;
+background-color:#b8f3e1;
 }
 
 h1{ 
   font-size:100px; 
    text-align:center;
   border-style: dashed;
-  color: #297A75;
-  background-color: #9BC1BF;
+  color: #255957;
+  background-color: #3d8f83;
 }
 
 h2{
   font-size:50px;
-  color:#5F9EA0;
+  color:#5d886c;
   text-align:center;
   margin-top:-65px;
 }
@@ -34,5 +34,5 @@ font-size:30px;
 
 ul.nav li a:hover{
   color:#FFF;
-background-color:#AFCDCC;
+background-color:#8fd0ca;
 }
