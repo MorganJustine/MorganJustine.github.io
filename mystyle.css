@@ -23,7 +23,7 @@ h2{
 ul.nav li{
   display:inline;
   width:10px;
-  padding:30px;
+  padding-right:30px;
 }
 
 ul.nav li a{
