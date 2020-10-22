@@ -6,6 +6,7 @@ h1{
   font-size:90px; 
   font-family: "Lucida Console", Courier, monospace;
   text-align:center;
+  padding:10px;
   border-style: double;
   color: #321e62; 
   background-color: #b19de1;
