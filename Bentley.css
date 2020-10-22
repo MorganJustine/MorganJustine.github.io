@@ -6,20 +6,20 @@ h1{
   font-size:100px; 
   text-align:center;
   border-style: double;
-  color: #452A89; 
+  color: #321e62; 
   background-color: #E0D8F3;
 }
 
 h2{
   font-size:50px;
-  color:#8263CF;
+  color:#452A89;
   text-align:center;
   margin-top:-65px;
 }
 
 ol.nav li{
   font-size:25px;
-  color:#321e62;
+  color:#8263CF;
 }
 
 p{
