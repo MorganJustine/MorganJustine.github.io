@@ -21,17 +21,13 @@ ol.nav li{
   text-align:center;
   font-size:25px;
   color:#5C4598;
+  display: inline-block;
   
-li {
-display: inline-block;
-}
-
 p{
 font-size:30px;
 }
 
 img {
-  float: right;
   border-radius: 50%;
     display: block;
   margin-left: auto;
