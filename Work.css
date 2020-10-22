@@ -1,10 +1,11 @@
 body{
-background-color:#F0F6F6;
+background-color:#334523;
 }
 
 h1{ 
   font-size:100px; 
-  color:#4682B4; 
+  color:#25331a; 
+  background-color:#334523
   text-align:center;
   border-style: dotted dashed solid double;
 }
@@ -45,7 +46,7 @@ color:#304f50;
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 40%;
     display: block;
   margin-left: auto;
   margin-right: auto;
