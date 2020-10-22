@@ -1,9 +1,14 @@
+body{
+background-color:#F0F6F6;
+}
+
 h1{ 
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
   border-style: dotted dashed solid double;
 }
+
 h2{
   font-size:50px;
   color:#5F9EA0;
@@ -17,10 +22,12 @@ font-size:30px;
   padding-bottom: 1px;
   padding-top: 1px;
 }
+
 table{
   width: 100%;
   border: 1px solid black;
 }
+
 th{
 font-size:25px;
 color:#4682B4;
@@ -28,6 +35,7 @@ color:#4682B4;
   border: 1px solid black;
   padding:15px;
 }
+
 td{
 font-size:20px;
 color:#304f50;
