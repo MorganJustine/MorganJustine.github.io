@@ -1,9 +1,11 @@
 h1{ 
-  font-size:100px; 
   color: #899BDD; 
+  background-color: #DBE1F4;
+}
+h1{
+  font-size:100px; 
   text-align:center;
   border-style: double;
-  background-color: #DBE1F4;
 }
 h2{
   font-size:50px;
@@ -17,4 +19,7 @@ ol.nav li{
 }
 p{
 font-size:30px;
+}
+body{
+background-color: #E2DBF4;
 }
