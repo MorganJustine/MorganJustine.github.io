@@ -1,10 +1,15 @@
-body{
-  background-color: lightgrey;
-  color: blue;
+h1{ 
+  font-size:100px; 
+   text-align:center;
+  border-style: dashed;
+  background-color: #F3F6FA;
+  color: #4682B4;
 }
-h1{
-  background-color: black;
-  color: white;
+h2{
+  font-size:50px;
+  color:#5F9EA0;
+  text-align:center;
+  margin-top:-65px;
 }
 ul.nav li{
   display:inline;
