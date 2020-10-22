@@ -2,7 +2,6 @@ p{
 font-size:30px;
 }
 
-<style>
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
@@ -20,4 +19,4 @@ div.desc {
   padding: 15px;
   text-align: center;
 }
-       </style>
+   
