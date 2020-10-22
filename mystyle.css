@@ -36,3 +36,7 @@ ul.nav li a:hover{
   color:#FFF;
 background-color:#8fd0ca;
 }
+
+img {
+  border-radius: 26%;
+}
