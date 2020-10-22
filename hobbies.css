@@ -1,15 +1,17 @@
+body{
+  background-color:#ebf3f3;
+}
+
 h1{ 
   font-size:100px; 
   color:#4682B4; 
   text-align:center;
   border-style: solid;
 }
+
 h2{
   font-size:50px;
   color:#5F9EA0;
   text-align:center;
   margin-top:-65px;
-}
-body{
-  background-color:#CFE1E2;
 }
