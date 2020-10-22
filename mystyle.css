@@ -26,6 +26,14 @@ ul.nav li{
   padding-right:30px;
 }
 
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 50px;
+	text-align: center;
+	margin-top: 80px;
+}
+
 ul.nav li a{
 font-size:35px;
  text-align:center;
