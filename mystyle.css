@@ -44,3 +44,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+img {
+  float: right;
+  border-radius: 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
