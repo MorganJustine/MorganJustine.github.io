@@ -18,8 +18,7 @@ h2{
   text-align:center;
   margin-top:-65px;
   text-shadow: 2px 2px 5px #FFF;
-  font-family: Impact, Charcoal, sans-serif;
-	
+  font-family: Impact, Charcoal, sans-serif;	
 }
 
 ul.nav li{
@@ -44,7 +43,7 @@ font-family: Impact, Charcoal, sans-serif;
   display:inline-block;
   padding:10px;
   background-color:#5d886c;
-  color:#FFF
+  color:#FFF;
 }
 
 ul.nav li a:hover{
