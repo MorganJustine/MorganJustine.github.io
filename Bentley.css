@@ -37,5 +37,8 @@ ol.nav li{
 
   p{
 font-size:20px;
-    font-family: "Lucida Console", Courier, monospace;
+    font-family: "Lucida Console", Courier, monospace;p{
+    font-size:20px;
+   display: inline-block;
 }
+
